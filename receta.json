@@ -1,0 +1,22 @@
+[
+    { "name": "Ensalada César", "ingredients": "Lechuga, Pollo, Queso Parmesano, Aderezo César", "time": 15 },
+    { "name": "Espagueti Carbonara", "ingredients": "Espagueti, Panceta, Huevo, Queso Parmesano", "time": 30 },
+    { "name": "Sándwich de Atún", "ingredients": "Pan, Atún, Mayonesa, Lechuga, Tomate", "time": 10 },
+    { "name": "Hamburguesa Clásica", "ingredients": "Carne de res, Pan de hamburguesa, Lechuga, Tomate, Cebolla, Queso, Salsa de tomate, Mostaza", "time": 20 },
+    { "name": "Pizza Margarita", "ingredients": "Masa de pizza, Tomate, Mozzarella, Albahaca", "time": 25 },
+    { "name": "Arroz con Pollo", "ingredients": "Arroz, Pollo, Cebolla, Ajo, Pimiento, Tomate", "time": 35 },
+    { "name": "Tacos de Carne Asada", "ingredients": "Carne de res, Tortillas de maíz, Cebolla, Cilantro, Limón", "time": 30 },
+    { "name": "Sopa de Verduras", "ingredients": "Caldo de verduras, Zanahoria, Apio, Papa, Calabacín", "time": 25 },
+    { "name": "Pastel de Chocolate", "ingredients": "Harina, Azúcar, Chocolate, Mantequilla, Huevos, Leche", "time": 45 },
+    { "name": "Pasta Alfredo", "ingredients": "Pasta fettuccine, Crema de leche, Mantequilla, Queso Parmesano", "time": 20 },
+    { "name": "Tortilla de Patatas", "ingredients": "Patatas, Huevos, Aceite de oliva, Cebolla", "time": 40 },
+    { "name": "Sushi de Salmón", "ingredients": "Arroz de sushi, Salmón fresco, Alga nori, Vinagre de arroz", "time": 60 },
+    { "name": "Pollo a la Parrilla", "ingredients": "Pollo, Aceite de oliva, Sal, Pimienta, Hierbas aromáticas", "time": 35 },
+    { "name": "Gazpacho Andaluz", "ingredients": "Tomate, Pepino, Pimiento, Cebolla, Ajo, Aceite de oliva, Vinagre", "time": 15 },
+    { "name": "Ratatouille", "ingredients": "Berenjena, Calabacín, Pimiento, Tomate, Cebolla, Ajo", "time": 40 },
+    { "name": "Fajitas de Pollo", "ingredients": "Pollo, Pimiento, Cebolla, Tortillas de maíz, Salsa de tomate, Guacamole", "time": 25 },
+    { "name": "Risotto de Champiñones", "ingredients": "Arroz arbóreo, Champiñones, Caldo de verduras, Vino blanco", "time": 30 },
+    { "name": "Muffins de Arándanos", "ingredients": "Harina, Arándanos, Azúcar, Huevos, Leche, Mantequilla", "time": 60 },
+    { "name": "Ceviche de Camarón", "ingredients": "Camarón, Limón, Cebolla, Cilantro, Tomate, Chile", "time": 20 },
+    { "name": "Lasaña de Carne", "ingredients": "Pasta para lasaña, Carne molida, Salsa de tomate, Queso ricotta, Queso mozzarella", "time": 50 }
+]

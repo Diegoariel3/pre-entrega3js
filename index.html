@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recetas</title>
+    <link rel="stylesheet" href="CSS/style.css">
+</head>
+<body>
+    <main>
+        <h1>Recetario</h1>
+        <input type="text" id="searchInput" placeholder="Buscar por ingredientes">
+        <input type="number" id="timeInput" placeholder="Buscar por tiempo de preparación en minutos">
+        <button onclick="searchRecipes()">Buscar</button>
+
+        <h2>Resultados de la búsqueda:</h2>
+        <ul id="recipeList"></ul>
+
+        <h2>Agregar nueva receta:</h2>
+        <div id="addRecipeMessage"></div>
+        <input type="text" id="newRecipeName" placeholder="Nombre de la receta">
+        <textarea id="newRecipeIngredients" placeholder="Ingredientes"></textarea>
+        <input type="number" id="newRecipeTime" placeholder="Tiempo de preparación en minutos">
+        <button onclick="addRecipe()">Agregar Receta</button>
+    </main>
+
+    <script src="JS/main.js"></script>
+</body>
+</html>
